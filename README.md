@@ -4,10 +4,10 @@
 Team members:
   
   xlong
-  PornWei
-  jiangcheng
-  Chenxin
-  JohnHao
+  ;PornWei
+  ;JohnHao
+  ;jiangcheng
+  ;Chenxin
   etc.
   
 
